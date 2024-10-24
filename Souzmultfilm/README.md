@@ -1,5 +1,5 @@
 # Классификация видеороликов по проектам для компании Союзмультфильм.
-![Image alt](https://github.com/ProkopovAO/-NLP-Projects/Souzmultfilm/mult.jpg)
+![Image_Souzmultfilm](https://github.com/ProkopovAO/-NLP-Projects/blob/main/Souzmultfilm/mult.jpg)
 ## Заказчик
 
 Компания Союзмультфильм. Основной вид деятельности Студии Союзмультфильм –
