@@ -1,5 +1,5 @@
 # Классификация видеороликов по проектам для компании Союзмультфильм.
-![Image alt](https://github.com/ProkopovAO/-NLP-Projects/Souzmultfilm/mult.jpg)
+![Image alt](https://github.com/ProkopovAO/-NLP-Projects/mult.jpg)
 ## Задачи проекта
 
 Разработка системы рекомендации стоимости автомобиля на основе его описания
